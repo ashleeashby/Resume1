@@ -1,0 +1,27 @@
+.homebg{
+    background-color: rgb(248, 238, 226);
+} 
+.font{
+    color: rgb(14, 32, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linkfont{
+    font-size: large;
+    text-transform: uppercase;
+    color: rgb(92, 46, 0);
+
+}
+.linktext{
+    font-size: large;
+    color: rgb(14, 92, 0);
+}
+.otherfont{
+    font-size: large;
+}
+
+.subtitles{
+    color: rgb(14, 32, 0);
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 25px;
+}

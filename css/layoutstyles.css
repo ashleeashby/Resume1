@@ -1,0 +1,20 @@
+.infopg{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 114px;
+    right: 5px;
+    width: 1000px;
+    bottom: 39px;
+    border: 3px solid rgb(0, 0, 0);
+    border-style: outset;
+    background-color: white;
+
+ 
+}
+.rmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 39px;
+}
